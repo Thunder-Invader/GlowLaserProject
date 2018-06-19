@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 2dac88ffc1b06d347ae65919ea19e9e1
+timeCreated: 1524562471
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: node_id10
+    100004: node_id11
+    100006: node_id12
+    100008: node_id13
+    100010: node_id133
+    100012: node_id14
+    100014: node_id147
+    100016: node_id15
+    100018: node_id16
+    100020: node_id17
+    100022: node_id18
+    100024: node_id19
+    100026: node_id20
+    100028: node_id21
+    100030: node_id22
+    100032: node_id23
+    100034: node_id24
+    100036: node_id25
+    100038: node_id26
+    100040: node_id27
+    100042: node_id28
+    100044: node_id29
+    100046: node_id30
+    100048: node_id31
+    100050: node_id32
+    100052: node_id33
+    100054: node_id34
+    100056: node_id35
+    100058: node_id36
+    100060: node_id37
+    100062: node_id38
+    100064: node_id39
+    100066: node_id40
+    100068: node_id5
+    100070: node_id6
+    100072: node_id7
+    100074: node_id74
+    100076: node_id8
+    100078: node_id9
+    100080: root 1
+    100082: root 10
+    100084: root 11
+    100086: root 12
+    100088: root 13
+    100090: root 14
+    100092: root 15
+    100094: root 16
+    100096: root 17
+    100098: root 18
+    100100: root 19
+    100102: root 2
+    100104: root 3
+    100106: root 4
+    100108: root 5
+    100110: root 6
+    100112: root 7
+    100114: root 8
+    100116: root 9
+    400000: //RootNode
+    400002: node_id10
+    400004: node_id11
+    400006: node_id12
+    400008: node_id13
+    400010: node_id133
+    400012: node_id14
+    400014: node_id147
+    400016: node_id15
+    400018: node_id16
+    400020: node_id17
+    400022: node_id18
+    400024: node_id19
+    400026: node_id20
+    400028: node_id21
+    400030: node_id22
+    400032: node_id23
+    400034: node_id24
+    400036: node_id25
+    400038: node_id26
+    400040: node_id27
+    400042: node_id28
+    400044: node_id29
+    400046: node_id30
+    400048: node_id31
+    400050: node_id32
+    400052: node_id33
+    400054: node_id34
+    400056: node_id35
+    400058: node_id36
+    400060: node_id37
+    400062: node_id38
+    400064: node_id39
+    400066: node_id40
+    400068: node_id5
+    400070: node_id6
+    400072: node_id7
+    400074: node_id74
+    400076: node_id8
+    400078: node_id9
+    400080: root 1
+    400082: root 10
+    400084: root 11
+    400086: root 12
+    400088: root 13
+    400090: root 14
+    400092: root 15
+    400094: root 16
+    400096: root 17
+    400098: root 18
+    400100: root 19
+    400102: root 2
+    400104: root 3
+    400106: root 4
+    400108: root 5
+    400110: root 6
+    400112: root 7
+    400114: root 8
+    400116: root 9
+    2100000: Material_84
+    2100002: Material_85
+    2100004: Material_86
+    2100006: Material_87
+    2100008: Material_88
+    2100010: Material_89
+    2100012: Material_90
+    2100014: Material_91
+    2100016: Material_92
+    2100018: Material_93
+    2100020: Material_94
+    2100022: Material_95
+    2100024: Material_96
+    2100026: Material_97
+    2100028: Material_98
+    2100030: Material_99
+    2100032: Material_100
+    2100034: Material_101
+    2100036: Material_102
+    2100038: Material_103
+    2100040: Material_104
+    2100042: Material_105
+    2100044: Material_106
+    2100046: Material_107
+    2100048: Material_108
+    2100050: Material_109
+    2100052: Material_110
+    2100054: Material_111
+    2100056: Material_112
+    2100058: Material_113
+    2100060: Material_114
+    2100062: Material_115
+    2100064: Material_116
+    2100066: Material_233
+    2100068: Material_188
+    2100070: Material_208
+    2300000: node_id10
+    2300002: node_id11
+    2300004: node_id12
+    2300006: node_id13
+    2300008: node_id133
+    2300010: node_id14
+    2300012: node_id147
+    2300014: node_id15
+    2300016: node_id16
+    2300018: node_id17
+    2300020: node_id18
+    2300022: node_id19
+    2300024: node_id21
+    2300026: node_id22
+    2300028: node_id23
+    2300030: node_id24
+    2300032: node_id25
+    2300034: node_id27
+    2300036: node_id28
+    2300038: node_id29
+    2300040: node_id30
+    2300042: node_id31
+    2300044: node_id32
+    2300046: node_id33
+    2300048: node_id34
+    2300050: node_id35
+    2300052: node_id36
+    2300054: node_id37
+    2300056: node_id38
+    2300058: node_id39
+    2300060: node_id40
+    2300062: node_id5
+    2300064: node_id7
+    2300066: node_id8
+    2300068: node_id9
+    2300070: root 1
+    2300072: root 10
+    2300074: root 11
+    2300076: root 12
+    2300078: root 13
+    2300080: root 14
+    2300082: root 15
+    2300084: root 16
+    2300086: root 17
+    2300088: root 18
+    2300090: root 19
+    2300092: root 2
+    2300094: root 3
+    2300096: root 4
+    2300098: root 5
+    2300100: root 6
+    2300102: root 7
+    2300104: root 8
+    2300106: root 9
+    3300000: node_id10
+    3300002: node_id11
+    3300004: node_id12
+    3300006: node_id13
+    3300008: node_id133
+    3300010: node_id14
+    3300012: node_id147
+    3300014: node_id15
+    3300016: node_id16
+    3300018: node_id17
+    3300020: node_id18
+    3300022: node_id19
+    3300024: node_id21
+    3300026: node_id22
+    3300028: node_id23
+    3300030: node_id24
+    3300032: node_id25
+    3300034: node_id27
+    3300036: node_id28
+    3300038: node_id29
+    3300040: node_id30
+    3300042: node_id31
+    3300044: node_id32
+    3300046: node_id33
+    3300048: node_id34
+    3300050: node_id35
+    3300052: node_id36
+    3300054: node_id37
+    3300056: node_id38
+    3300058: node_id39
+    3300060: node_id40
+    3300062: node_id5
+    3300064: node_id7
+    3300066: node_id8
+    3300068: node_id9
+    3300070: root 1
+    3300072: root 10
+    3300074: root 11
+    3300076: root 12
+    3300078: root 13
+    3300080: root 14
+    3300082: root 15
+    3300084: root 16
+    3300086: root 17
+    3300088: root 18
+    3300090: root 19
+    3300092: root 2
+    3300094: root 3
+    3300096: root 4
+    3300098: root 5
+    3300100: root 6
+    3300102: root 7
+    3300104: root 8
+    3300106: root 9
+    4300000: node_id5
+    4300002: node_id7
+    4300004: node_id8
+    4300006: node_id9
+    4300008: node_id10
+    4300010: node_id11
+    4300012: node_id12
+    4300014: node_id13
+    4300016: node_id14
+    4300018: node_id15
+    4300020: node_id16
+    4300022: node_id17
+    4300024: node_id18
+    4300026: node_id19
+    4300028: node_id21
+    4300030: node_id22
+    4300032: node_id23
+    4300034: node_id24
+    4300036: node_id25
+    4300038: node_id27
+    4300040: node_id28
+    4300042: node_id29
+    4300044: node_id30
+    4300046: node_id31
+    4300048: node_id32
+    4300050: node_id33
+    4300052: node_id34
+    4300054: node_id35
+    4300056: node_id36
+    4300058: node_id37
+    4300060: node_id38
+    4300062: node_id39
+    4300064: node_id40
+    4300066: node_id133
+    4300068: node_id147
+    4300070: root
+    4300072: root
+    4300074: root
+    4300076: root
+    4300078: root
+    4300080: root
+    4300082: root
+    4300084: root
+    4300086: root
+    4300088: root
+    4300090: root
+    4300092: root
+    4300094: root
+    4300096: root
+    4300098: root
+    4300100: root
+    4300102: root
+    4300104: root
+    4300106: root
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
